@@ -1,0 +1,9 @@
+Interview questions:
+
+List of process commanad in linux
+Git commands
+Git merge and rebase difference 
+AWS services known
+systemctl command
+
+
